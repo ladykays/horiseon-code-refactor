@@ -19,7 +19,7 @@ To use the accessibility feature of this page, please enable accessibility on yo
 This layout is designed for desktop viewing.
 
 ## Link
-
+https://ladykays.github.io/horiseon-code-refactor/#search-engine-optimization
 
 ## License
 
